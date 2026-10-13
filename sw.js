@@ -1,6 +1,6 @@
 // Service worker de AL BARRIL: deja la app disponible sin conexión.
 // Si cambias el menú o el diseño y no se ve el cambio, sube el número de VERSION.
-const VERSION = 'al-barril-v2';
+const VERSION = 'al-barril-v3';
 const BASE = [
   './', 'index.html', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png'
